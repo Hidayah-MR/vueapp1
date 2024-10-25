@@ -1,4 +1,4 @@
-name: CI for Vue App
+name: CI for Vue App Test
 
 on:
   push:
